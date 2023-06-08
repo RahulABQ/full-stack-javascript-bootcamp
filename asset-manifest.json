@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/full-stack-javascript-bootcamp/static/css/main.3debf971.css",
+    "main.js": "/full-stack-javascript-bootcamp/static/js/main.84153ee2.js",
+    "index.html": "/full-stack-javascript-bootcamp/index.html",
+    "main.3debf971.css.map": "/full-stack-javascript-bootcamp/static/css/main.3debf971.css.map",
+    "main.84153ee2.js.map": "/full-stack-javascript-bootcamp/static/js/main.84153ee2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3debf971.css",
+    "static/js/main.84153ee2.js"
+  ]
+}
